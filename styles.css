@@ -1,0 +1,21 @@
+body{
+    background-color:lightpink;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+        background-image: url('img/sky.jpg');
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+}
+
+
+.container{
+    max-width: 400px;
+}
+
+.icon{
+    position: relative;
+    top:-50px;
+    border-radius: 50%;
+    width:100px;
+    margin-bottom:-50px;
+}
